@@ -148,5 +148,15 @@ O diagrama EER representa todas as entidades e seus relacionamentos de forma vis
 
 ---
 
-## 📁 Estrutura de Arquivos (Sugerida)
+## 👨‍💻 Autores
 
+Projeto desenvolvido por:
+- **Ricardo Miliotte**  
+  Pós-graduando em Análise de Dados | Analista de Sistemas Sênior  
+  [LinkedIn](https://www.linkedin.com/in/ricardo-miliotte/)
+
+---
+
+## 🧾 Licença
+
+Este projeto é de uso **acadêmico e educacional**, podendo ser reutilizado para fins de estudo e aprendizado.
